@@ -168,7 +168,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- GitHub: [your-username](https://github.com/AnubhavSingh99)
-- Email: [your-email@example.com](mailto:singhanubhav7456@gmail.com)
+- GitHub: [AnubhavSingh99x](https://github.com/AnubhavSingh99)
+- Email: [singhanubhav7456@gmail.com](mailto:singhanubhav7456@gmail.com)
 
 Thank you for visiting my repository! I hope you find these projects helpful and inspiring. Happy coding! 🚀
