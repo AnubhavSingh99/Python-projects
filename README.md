@@ -2,7 +2,7 @@
 
 Welcome to my Python Projects repository! This repository is a collection of various Python projects I've worked on, showcasing a variety of skills and concepts in programming. Each project is unique and explores different aspects of Python programming, from web development to data analysis and automation.
 
-## Table of Contents
+## Table of Contents 
 
 - [Introduction](#introduction)
 - [Projects](#projects)
