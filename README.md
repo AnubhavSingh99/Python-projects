@@ -14,6 +14,7 @@ Welcome to my Python Projects repository! This repository is a collection of var
   - [Project 6: Sorting Hat](#project-6-sorting-hat)
   - [Project 7: Space Adventure Game](#project-7-space-adventure-game)
   - [Project 8: GIF Creator](#project-8-gif-creator)
+  - [Project 9: Amazon Web Scraper](#project-9-amazon-web-scraper)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -132,6 +133,22 @@ A tool to create animated GIFs from a sequence of images. This project demonstra
 - Python
 - PIL (Pillow)
 - imageio
+
+### Project 9: Amazon Web Scraper 🛒
+
+A web scraping tool that extracts product information from Amazon product pages. This project demonstrates web scraping techniques, data extraction, and handling of dynamic web content.
+
+**Features:**
+- Extracts product titles and prices from Amazon URLs
+- Handles multiple price formats and selectors
+- Error handling for missing or unavailable data
+- User-friendly command-line interface
+
+**Technologies Used:**
+- Python
+- BeautifulSoup4
+- Requests
+- Regular Expressions
 
 ## Installation
 
